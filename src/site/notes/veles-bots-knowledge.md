@@ -1,12 +1,7 @@
 ---
-title: "Veles Trading Bots - База знаний"
-description: "Техническая база знаний по трейдинг ботам Veles из Telegram сообщества"
-tags: ["veles", "trading", "bots", "telegram", "knowledge-base"]
-date: 2025-09-25
-author: "Veles Community"
-layout: "note"
-permalink: "/veles-bots-knowledge/"
+{"dg-publish":true,"permalink":"/veles-bots-knowledge/","title":"Veles Trading Bots - База знаний","tags":["veles","trading","bots","telegram","knowledge-base"]}
 ---
+
 
 # 🤖 Veles Trading Bots - Техническая база знаний
 

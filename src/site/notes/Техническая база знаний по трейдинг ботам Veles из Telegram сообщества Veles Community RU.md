@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tehnicheskaya-baza-znanij-po-trejding-botam-veles-iz-telegram-soobshhestva-veles-community-ru/","title":"Veles Trading Bots - База знаний"}
+{"dg-publish":true,"permalink":"/tehnicheskaya-baza-znanij-po-trejding-botam-veles-iz-telegram-soobshhestva-veles-community-ru/"}
 ---
 
 

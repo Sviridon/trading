@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/dz-po-kursu-als-veles/","tags":["gardenEntry"]}
 ---
 
+### ДЗ по курсу ALS+Veles
+
 [[ALS+Veles RESOLV №5\|ALS+Veles RESOLV №5]]
 [[ALS+Veles ZKC №5\|ALS+Veles ZKC №5]]
 [[ALS+Veles AAVE №4\|ALS+Veles AAVE №4]]

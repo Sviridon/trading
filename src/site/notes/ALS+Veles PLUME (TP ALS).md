@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/als-veles-plume-tp-als/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/als-veles-plume-tp-als/"}
 ---
 
 *Сделка в рамках учебного курса [[ДЗ по курсу ALS+Veles\|ДЗ по курсу ALS+Veles]]. В качестве TP заглушка на стороне Veles, чтобы посмотреть как работает (оказалось не работает без установленного в основной системе) TP в ALS*

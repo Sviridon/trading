@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/als-veles-zkc-5/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/als-veles-zkc-5/"}
 ---
 
 ##### *Сделка в рамках учебного курса [[ДЗ по курсу ALS+Veles\|ДЗ по курсу ALS+Veles]]. **Без** Initial Stop Loss

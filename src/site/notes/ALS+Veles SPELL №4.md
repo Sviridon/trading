@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/als-veles-spell-4/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/als-veles-spell-4/"}
 ---
 
 *Сделка в рамках учебного курса [[ДЗ по курсу ALS+Veles\|ДЗ по курсу ALS+Veles]]. С Initial Stop Loss

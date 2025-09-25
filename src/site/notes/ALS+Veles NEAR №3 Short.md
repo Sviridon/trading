@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/als-veles-near-3-short/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/als-veles-near-3-short/"}
 ---
 
 *Сделка в рамках учебного курса [[ДЗ по курсу ALS+Veles\|ДЗ по курсу ALS+Veles]].*

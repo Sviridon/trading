@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/als-veles-baby-tp-als/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/als-veles-baby-tp-als/"}
 ---
 
 *Сделка в рамках учебного курса [[ДЗ по курсу ALS+Veles\|ДЗ по курсу ALS+Veles]]. В качестве TP заглушка на стороне Veles*

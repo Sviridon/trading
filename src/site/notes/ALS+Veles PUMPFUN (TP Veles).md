@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/als-veles-pumpfun-tp-veles/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/als-veles-pumpfun-tp-veles/"}
 ---
 
 *Сделка в рамках учебного курса [[ДЗ по курсу ALS+Veles\|ДЗ по курсу ALS+Veles]]. В качестве TP 1% на стороне Veles*

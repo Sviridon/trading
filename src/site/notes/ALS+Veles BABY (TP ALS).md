@@ -51,5 +51,9 @@ ASL открыл хэдж:
 Добавил монету в исключения ALS
 ![Pasted image 20250921223621.png|400](/img/user/media/Pasted%20image%2020250921223621.png)
 
+В общем Велес не закрыл
+![Pasted image 20250926023452.png](/img/user/media/Pasted%20image%2020250926023452.png)
 
+Закрыл руками (трейлинг стопом)
+![Pasted image 20250926023538.png](/img/user/media/Pasted%20image%2020250926023538.png)
 

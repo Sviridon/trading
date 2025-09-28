@@ -4,10 +4,18 @@
 
 ### ДЗ по курсу ALS+Veles
 
-[[ALS+Veles RESOLV №5\|ALS+Veles RESOLV №5]]
-[[ALS+Veles ZKC №5\|ALS+Veles ZKC №5]]
-[[ALS+Veles AAVE №4\|ALS+Veles AAVE №4]]
-[[ALS+Veles SPELL №4\|ALS+Veles SPELL №4]]
+[[ALS+Veles RESOLV №5\|ALS+Veles RESOLV №5]] (**Без** Initial Stop Loss). 
+*Один хэдж с профитом. Цена в боковике, ждем развязки. Открытых хэджей нет.*
+
+[[ALS+Veles ZKC №5\|ALS+Veles ZKC №5]] (**Без** Initial Stop Loss). 
+*Хэдж отработал один раз в плюс и два в минус. Сейчас осталась только основная позиция в просадке.*
+
+[[ALS+Veles AAVE №4\|ALS+Veles AAVE №4]] (С Initial Stop Loss). 
+*Продолжаем пересиживать убыток основной позиции, ожидая что цена вернется. Хэдж отрабатывает хорошо.*
+
+[[ALS+Veles SPELL №4\|ALS+Veles SPELL №4]] - (С Initial Stop Loss). 
+*Продолжаем пересиживать убыток основной позиции, ожидая что цена вернется. Хэдж отрабатывает хорошо.*
+
 [[ALS+Veles TWT №3 Short\|ALS+Veles TWT №3 Short]]
 [[ALS+Veles NEAR №3 Short\|ALS+Veles NEAR №3 Short]]
 [[ALS+Veles BABY (TP ALS)\|ALS+Veles BABY (TP ALS)]]

@@ -4,6 +4,8 @@
 
 ##### *Сделка в рамках учебного курса [[ДЗ по курсу ALS+Veles\|ДЗ по курсу ALS+Veles]]. **Без** Initial Stop Loss
 
+Подключение к системе и ссылки на комьюнити через бота - [ALS subscription bot](https://t.me/als_subs_bot?start=r_11331921)
+
 ![Pasted image 20250925002720.png|400](/img/user/media/Pasted%20image%2020250925002720.png)
 ![Pasted image 20250925002750.png|400](/img/user/media/Pasted%20image%2020250925002750.png)
 
@@ -53,3 +55,10 @@
 ![Pasted image 20250930021236.png](/img/user/media/Pasted%20image%2020250930021236.png)
 
 В любом случае текущие позиции значительно лучше, чем если бы никакого хэджа не было. Даже если монета упадет до нуля мы закроемся парно с прибылью. Хорошо что у нее нет волотильности, а просто плавное опускание.
+
+БИНГО! Поза закрылась парно, падение продолжилось дальше без нас.
+![Pasted image 20250930155650.png](/img/user/media/Pasted%20image%2020250930155650.png)
+В плюс!
+![Pasted image 20250930155811.png](/img/user/media/Pasted%20image%2020250930155811.png)
+
+Подключение к системе и ссылки на комьюнити через бота - [ALS subscription bot](https://t.me/als_subs_bot?start=r_11331921)

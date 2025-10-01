@@ -4,6 +4,9 @@
 
 ### ДЗ по курсу ALS+Veles
 
+Подключение к системе и ссылки на комьюнити через бота - [ALS subscription bot](https://t.me/als_subs_bot?start=r_11331921)
+
+
 [[ALS+Veles RESOLV №5\|ALS+Veles RESOLV №5]] (**Без** Initial Stop Loss). 
 *Один хэдж закрыт с профитом. Цена в боковике, ждем развязки. Открытых хэджей нет.*
 

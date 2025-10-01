@@ -150,3 +150,11 @@ ROI основной позиции 96% и объем 40
 
 Так и сработало:
 ![Pasted image 20250928194426.png](/img/user/media/Pasted%20image%2020250928194426.png)
+
+---
+30 сентября
+![Pasted image 20250930022147.png](/img/user/media/Pasted%20image%2020250930022147.png)
+
+Еще раз усредню шорт
+![Pasted image 20250930022750.png](/img/user/media/Pasted%20image%2020250930022750.png)
+и поставил стоп-лосс для лонга вручную
